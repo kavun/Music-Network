@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_GetSongTags" value="name:TagID;datatype:,name:SongID;datatype:,name:TagDate;datatype:,name:TagID;datatype:,name:TagName;datatype:,name:CreateDate;datatype:" />
+	<infoitem key="UD_GetNumUps" value="name:NumUps;datatype:" />
+	<infoitem key="UD_GetUserUp" value="name:UpID;datatype:,name:UserID;datatype:,name:SongID;datatype:,name:CreateDate;datatype:" />
+	<infoitem key="UD_CheckSongUser" value="name:SongID;datatype:,name:SongTitle;datatype:,name:UserID;datatype:,name:SongLength;datatype:,name:SongURL;datatype:,name:SongCreateDateTime;datatype:,name:SongUploadDateTime;datatype:" />
+</info>
