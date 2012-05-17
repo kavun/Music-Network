@@ -1,7 +1,7 @@
 Author: Kevin Reed
 Website: http://www.kevreed.com/
 
-CSC351Final.mdb should be placed in db file of ColdFusion folder.
+CSC351Final.mdb should be placed in db folder in ColdFusion folder.
 All other files go into wwwroot.
 
 This site is a prototype of a music networking site where users can login and upload, tag, comment, and send songs to other users.
